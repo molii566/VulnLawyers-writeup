@@ -154,4 +154,4 @@ Addressing these issues will significantly strengthen the organization’s secur
 Continuous security reviews and adherence to secure coding practices are recommended.
 
 ## Author: Mo Lii
-## (LinkedIn:](https://www.linkedin.com/in/mahamud-abdirahman-151493375/)
+## [LinkedIn:](https://www.linkedin.com/in/mahamud-abdirahman-151493375/)
