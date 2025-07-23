@@ -65,9 +65,9 @@ Each finding includes a detailed description, proof of concept (PoC), and remedi
 
 | Path            | Status | Notes                                      |
 | --------------- | ------ | ------------------------------------------ |
-| `/css/`         | 301    | Redirects to `/css/`                       |
-| `/images/`      | 301    | Redirects to `/images/`                    |
-| `/js/`          | 301    | Redirects to `/js/`                        |
+| `/css/`         | 301    | Redirects to `403 Forbidden`               |
+| `/images/`      | 301    | Redirects to `403 Forbidden`               |
+| `/js/`          | 301    | Redirects to `403 Forbidden`               |
 | `/denied`       | 401    | Access restricted                          |
 | `/login`        | 302    | Redirects to `/denied` initially           |
 | `/lawyers-only` | 200    | Staff portal discovered on redirected link |
