@@ -153,5 +153,5 @@ This assessment uncovered critical flaws in access control and data exposure wit
 Addressing these issues will significantly strengthen the organization’s security posture and prevent unauthorized access or data leakage. 
 Continuous security reviews and adherence to secure coding practices are recommended.
 
-## Author: Mo Lii
+## Author: Z4B0
 ## [LinkedIn:](https://www.linkedin.com/in/mahamud-abdirahman-151493375/)
